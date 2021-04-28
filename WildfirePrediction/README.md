@@ -12,7 +12,7 @@ More broadly, we hope this project sheds light on the [power machine learning ca
 
 Data is obtained from the [Global Fire Atlas](https://www.globalfiredata.org/fireatlas.html) and [NOAA CDO API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted), code is written in Python, and models are constructed using `sklearn`. The Jupyter notebooks numbered 00 through 09 walk through the data scraping, cleaning and preprocessing, along with model training, hyperparameter selection via cross-validation, and model evaluation on each target variable.
 
-A comprehensive project report is available [here]() for further information.
+A comprehensive project report is available [here](McDonald_CSE847_ProjectFinal.pdf) for further information.
 
 Notebooks in the `archive/` directory contain intermediate results not detailed in the final project report, but may be of interest to those hoping for a "behind-the-scenes" look at the project's development, including extensive experimentation in geospatial data visualization and management. 
 
